@@ -1,7 +1,7 @@
 # First Question
 # In how many assignment pairs does one range fully contain the other?
 
-cleaning = open('input_day4.txt').readlines()
+cleaning = open('input_day4.txt', 'r').readlines()
 
 cont=0
 cont2=0
